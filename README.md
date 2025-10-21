@@ -53,7 +53,7 @@ This project helps us practice using Git and GitHub together while having a litt
 
 ***(Add your name and reason below the appropriate category)***
 
-###🧂 Team Savory  
+### 🧂 Team Savory  
 _Because butter, cheese, and salt make everything better._
 
 - Charlean — Savory — Because my tastebuds only guide me to deliciousness!
