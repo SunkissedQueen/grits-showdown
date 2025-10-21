@@ -1,4 +1,4 @@
-# 🥣 The Great Grits Showdown 🧂 🍯 🚫
+# 🥣  The Great Grits Showdown 🧂 🍯 🚫
 **Welcome to the Git Kitchen Collaboration Challenge!**
 
 This project helps us practice using Git and GitHub together while having a little fun. Each participant will choose their side in the Great Grits Debate and explain why.
