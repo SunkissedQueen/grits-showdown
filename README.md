@@ -20,9 +20,10 @@ This project helps us practice using Git and GitHub together while having a litt
     ```css
     - [Your Name] — [Savory | Sweet | No Grits] — [One-sentence reason]
     ```
-4. Stage, commit, and push your change.
+4. Check for changes, stage, commit, and push your change.
 
     ```bash
+    git status
     git add README.md
     git commit -m "Add [Your Name]'s grits entry"
     git push origin feature-yourname
@@ -58,21 +59,21 @@ _Because butter, cheese, and salt make everything better._
 - Charlean — Savory — Because my tastebuds only guide me to deliciousness!
 
 
-###🍯 Team Sweet  
+### 🍯 Team Sweet  
 _Because sugar, syrup, and cream belong on grits too._
 
 
-###🚫 Team No Grits  
+### 🚫 Team No Grits  
 _Because texture is everything and this one isn't for everyone._
 
 ---
-##🤔 Reflection
+## 🤔 Reflection
 
 Once everyone has merged their entry, answer this question:
 
 >What made it easier (or harder) to work together compared to the Google Doc chaos?
 
-###🎗️ Remember
+### 🎗️ Remember
 
 _Pull before you push, taste before you season._
 
