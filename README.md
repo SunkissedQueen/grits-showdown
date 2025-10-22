@@ -19,6 +19,7 @@ This project helps us practice using Git and GitHub together while having a litt
 
     ```css
     - [Your Name] — [Savory | Sweet | No Grits] — [One-sentence reason]
+    Example: - Charlean — Savory — Because my tastebuds only guide me to deliciousness!
     ```
 4. Check for changes, stage, commit, and push your change.
 
