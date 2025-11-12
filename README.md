@@ -58,7 +58,11 @@ This project helps us practice using Git and GitHub together while having a litt
 _Because butter, cheese, and salt make everything better._
 
 - Charlean — Savory — Because my tastebuds only guide me to deliciousness!
+
+- Pilara — Savory — Definitely prefer salt, cheese, and butter.
+
 - Yali — Savory — Savory is just the best
+
 
 ### 🍯 Team Sweet  
 _Because sugar, syrup, and cream belong on grits too._
