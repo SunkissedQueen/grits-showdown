@@ -83,6 +83,7 @@ _Because butter, cheese, and salt make everything better._
 ### 🍯 Team Sweet
 
 _Because sugar, syrup, and cream belong on grits too._
+- Priscilla — Sweet — Grits remind me of oatmeal and as far as I know, oatmeal is prepared sweet most of the time.
 - Dari - Sweet - Because I like sugar and syrup in my grits.
 
 ### 🚫 Team No Grits
