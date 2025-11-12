@@ -27,14 +27,14 @@ This project helps us practice using Git and GitHub together while having a litt
     ```bash
     code .
     ```   
-3. Select the applicable file (README.md)
-4. Add your entry below in the correct category using this format:
+4. Select the applicable file (README.md)
+5. Add your entry below in the correct category using this format:
 
     ```bash
-    - `[Your Name] — [Savory, Sweet, or No Grits] — [One-sentence reason]`
+    - [Your Name] — [Savory, Sweet, or No Grits] — [One-sentence reason]
     ```
     `Example: - Charlean — Savory — Because my tastebuds only guide me to deliciousness!`
-4. Complete work → check status → stage → commit
+6. Complete work → check status → stage → commit
 
     ```bash
     git status
@@ -42,7 +42,7 @@ This project helps us practice using Git and GitHub together while having a litt
     git commit -m "Add [Your Name]'s grits entry"
     git push origin feature-yourname
     ```
-5. Create a Pull Request on GitHub to merge your entry.
+7. Create a Pull Request on GitHub to merge your entry.
 
     ```bash
     a. Go to your repository on GitHub.
