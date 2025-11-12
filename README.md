@@ -61,6 +61,8 @@ _Because butter, cheese, and salt make everything better._
 
 - Pilara — Savory — Definitely prefer salt, cheese, and butter.
 
+- Yali — Savory — Savory is just the best
+
 
 ### 🍯 Team Sweet  
 _Because sugar, syrup, and cream belong on grits too._
