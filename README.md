@@ -7,21 +7,34 @@ This project helps us practice using Git and GitHub together while having a litt
 
 ## 🍳 Instructions
 
-1. Make sure you’re on your **own branch** before editing.  
+0. Get to the right folder  
+    ```bash
+    pwd            # print where you are
+    ls             # see files/folders here
+    git clone https://github.com/SunkissedQueen/grits-showdown.git   # copy the remote project onto your local machine
+    cd grits-showdown  # open the project locally
+    ```
+1. Make sure main is up to date.   
+    ```bash
+    git checkout main
+    git pull origin main
+    ```
+2. Create a feature branch (so you don’t touch main)
     ```bash
     git checkout -b feature-yourname
     ```
-2. Pull the latest updates from main.
+3. Open the project in vs code
     ```bash
-    git pull origin main
-    ```
-3. Add your entry below in the correct category using this format:
+    code .
+    ```   
+4. Select the applicable file (README.md)
+5. Add your entry below in the correct category using this format:
 
-    ```css
-    - [Your Name] — [Savory | Sweet | No Grits] — [One-sentence reason]
+    ```bash
+    - [Your Name] — [Savory, Sweet, or No Grits] — [One-sentence reason]
     ```
     `Example: - Charlean — Savory — Because my tastebuds only guide me to deliciousness!`
-4. Check for changes, stage, commit, and push your change.
+6. Complete work → check status → stage → commit
 
     ```bash
     git status
@@ -29,7 +42,7 @@ This project helps us practice using Git and GitHub together while having a litt
     git commit -m "Add [Your Name]'s grits entry"
     git push origin feature-yourname
     ```
-5. Create a Pull Request on GitHub to merge your entry.
+7. Create a Pull Request on GitHub to merge your entry.
 
     ```bash
     a. Go to your repository on GitHub.
