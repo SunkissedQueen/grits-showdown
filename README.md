@@ -31,7 +31,7 @@ This project helps us practice using Git and GitHub together while having a litt
 5. Add your entry below in the correct category using this format:
 
     ```bash
-    - [Your Name] — [Savory, Sweet, or No Grits] — [One-sentence reason]
+    - [Priscilla] — [Sweet] — [Grits remind me of oatmeal. So it just feels more natural to me to have it be a sweet dish.]
     ```
     `Example: - Charlean — Savory — Because my tastebuds only guide me to deliciousness!`
 6. Complete work → check status → stage → commit
