@@ -65,3 +65,11 @@ This project helps us practice using Git and GitHub together while having a litt
 
    h. Click “Delete branch.”
    ```
+
+8. Delete stale branch on local machine
+
+   ```bash
+   git checkout main
+   git pull origin main
+   git branch -d feature-yourname
+   ```
